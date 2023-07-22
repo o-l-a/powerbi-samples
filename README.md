@@ -52,5 +52,5 @@ and aims to achieve comfortable user experience.
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/o-l-a/powerbi-samples.git`
-2. Open the Power BI project file (`project_name.pbix`) using Microsoft Power BI Desktop.
+2. Open the Power BI project file (`PowerBiSamples.pbix`) using Microsoft Power BI Desktop.
 3. Navigate through the pages to explore the sample visualizations and interact with the filters and tooltips.
